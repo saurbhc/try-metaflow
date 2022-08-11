@@ -1,5 +1,5 @@
 ```console
-pip install metaflow
+pip install sklearn
 ```
 
 ```console
